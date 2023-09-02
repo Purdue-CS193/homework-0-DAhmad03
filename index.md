@@ -28,7 +28,7 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-# Duaa
+# Duaas
 ## Aanis
 ### Zain
 Family **ZAD** _mom_ 'dad'
