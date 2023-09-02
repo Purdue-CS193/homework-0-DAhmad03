@@ -26,10 +26,12 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
+
+
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 # Duaa's First CS193 Homework
-# Here are some of my favourite things about CS 193:
+## Here are some of my favourite things about CS 193:
 - I like that CS193 is a course which teaches students some basic tips and tricks about programming.
 - I think that the instructors of this course are quite nice, helpful and make the course a bit fun which makes a nice impact on my day.
 
