@@ -31,7 +31,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 # Duaas
 ## Aanis
 ### Zain
-Family **ZAD** _mom_ 'dad'
+Family **ZAD** _mom_ `dad`
 
 ### Jekyll Themes
 
