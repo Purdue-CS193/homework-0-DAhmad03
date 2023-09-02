@@ -31,7 +31,7 @@ Syntax highlighted code block
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 # Duaa's First CS193 Homework
-## _Here are some of my favourite things about CS 193:_
+_## Here are some of my favourite things about CS 193:_
 - I like that CS193 is a course which teaches students some basic tips and tricks about programming.
 - I think that the instructors of this course are quite nice, helpful and make the course a bit fun which makes a nice impact on my day.
 
